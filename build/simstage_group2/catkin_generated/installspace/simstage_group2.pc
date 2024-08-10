@@ -1,0 +1,8 @@
+prefix=/home/joseph/Desktop/robotic_mapping/install
+
+Name: simstage_group2
+Description: Description of simstage_group2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+simstage_group2
+-DCATKIN_DEVEL_PREFIX=/home/joseph/Desktop/robotic_mapping/devel -DCMAKE_INSTALL_PREFIX=/home/joseph/Desktop/robotic_mapping/install -G Unix Makefiles
